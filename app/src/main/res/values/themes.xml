@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PreDia" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Match app dark background so status bar is uniform (no purple/blue bar) -->
+        <item name="colorPrimary">@color/app_dark_bg</item>
+        <item name="colorPrimaryDark">@color/app_dark_bg</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="android:windowBackground">@color/app_dark_bg</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+{
+  "name": "PreDia Risk Prediction Tool",
+  "short_name": "PreDia",
+  "description": "Hybrid ML-based T2DM risk prediction for rural Ugandan settings",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "lang": "en",
+  "scope": "./"
+}
