@@ -2,10 +2,10 @@
 
 **PreDia** is an Android app for **Type 2 Diabetes Mellitus (T2DM) risk prediction** in the field. It is built for the **Village Health Teams in Uganda** and supports screening and education in low resource settings.
 
-# Group name: The Ravens
-Rugogamu Noela S23B38/016 B22775
-Arinaitwe Paula Lorraine
-Ssendi Malon Aloysious
+## Group name: The Ravens
+- Rugogamu Noela S23B38/016 B22775
+- Arinaitwe Paula Lorraine
+- Ssendi Malon Aloysious
 ---
 
 ## What it does
