@@ -12,6 +12,10 @@
 #   public *;
 #}
 
+-keepclassmembers class com.t2dm.predia.WebExportBridge {
+    @android.webkit.JavascriptInterface <methods>;
+}
+
 # Uncomment this to preserve the line number information for
 # debugging stack traces.
 #-keepattributes SourceFile,LineNumberTable
