@@ -12,7 +12,7 @@
 |------|--------------|--------|
 | Rugogamu Noela | S23B38/016 · B22775 | rugogamunoela@gmail.com |
 | Arinaitwe Lorraine Paula | M23B38/004 | lorrainearinaitwe@gmail.com |
-| Ssendi Malon Aloysious | S23B38/002 · B21258 | ssendimalon2013@gmail.com |
+| Ssendi Aloysious | S23B38/002 · B21258 | ssendimalon2013@gmail.com |
 
 ---
 
